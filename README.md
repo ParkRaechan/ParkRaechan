@@ -1,6 +1,6 @@
 ### My name is ParkRaechan
 ----------------------------
-#### Backend Developer
+#### Amateur Backend Developer
 #### Interests
 - java
 - c##  
