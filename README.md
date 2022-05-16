@@ -1,5 +1,5 @@
-### My name is ParkRaechan
-##### focks1012@naver.com  
+### My name is ParkRaechan.
+##### email - focks1012@naver.com  
 ----------------------------
 #### Amateur Backend Developer
 #### Interests
