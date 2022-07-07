@@ -15,4 +15,4 @@
 진행중인 프로젝트
 - [은행 보안 프로젝트 ver.2 [JSP]](https://github.com/ParkRaechan/Java_practice_teampj-Bank_ver.2-)
 - [부동산 빅데이터 분석, 추천 프로그램 [Spring]](https://github.com/ParkRaechan/dongsan_data)
-- 빨래방(세탁방) 키오스크 ver.2 [JavaFX]
+- [빨래방(세탁방) 키오스크 ver.2 [JavaFX]](https://github.com/ParkRaechan/Java_practice_teampj-LaundryKiosk-)
