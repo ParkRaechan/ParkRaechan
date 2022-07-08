@@ -1,7 +1,8 @@
 ### My name is ParkRaechan.[박래찬]
 ##### email - focks1012@naver.com  
-----------------------------
 #### Just someone who wants to become Amateur Backend Developer   
+----------------------------  
+
   
 <div align=center>  
   
