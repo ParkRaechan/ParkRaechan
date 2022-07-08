@@ -3,7 +3,7 @@
 ----------------------------
 #### Just someone who wants to become Amateur Backend Developer
 #### TECH STACK
-https://img.shields.io/badge/-[Java]?style=flat&logo=[Java]
+https://img.shields.io/badge/-Java-000000?style=flat&logo=Java
 
 <div align=center>  
   
