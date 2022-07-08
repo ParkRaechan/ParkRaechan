@@ -2,9 +2,8 @@
 ##### email - focks1012@naver.com  
 ----------------------------
 #### Just someone who wants to become Amateur Backend Developer
-#### Interests
-- java
-- c##  
+#### TECH STACK
+https://img.shields.io/badge/-[Java]?style=flat&logo=[Java]
 
 <div align=center>  
   
