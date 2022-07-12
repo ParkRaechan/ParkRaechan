@@ -1,7 +1,7 @@
 ### My name is ParkRaechan.[박래찬]
-#### Just someone who wants to become Amateur Backend Developer
-#### Taking 2years off from TUKOREA(Tech University of Korea) [한국공학대학교]    
-#### Currently, working as asocial service agent     
+#### - Just someone who wants to become Amateur Backend Developer
+#### - Taking 2years off from TUKOREA(Tech University of Korea) [한국공학대학교]    
+#### - Currently, working as asocial service agent     
 ##### email - focks1012@naver.com   
 ----------------------------  
 
