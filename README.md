@@ -1,5 +1,6 @@
 ### My name is ParkRaechan.[박래찬]
 #### Just someone who wants to become Amateur Backend Developer   
+#### Currently, I am a student at TUKOREA[한국공학대학교]    
 ##### email - focks1012@naver.com   
 ----------------------------  
 
