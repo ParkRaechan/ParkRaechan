@@ -1,4 +1,4 @@
-### Hi my name is ParkRaechan.(박래찬){  
+### Hi my name is ParkRaechan(박래찬){  
 ####  -What are you?
   Just someone who wants to become a Amateur Backend Developer  
 ####  -What are you doing now?
