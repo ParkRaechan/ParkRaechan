@@ -1,5 +1,7 @@
-### Hello my name is ParkRaechan.[박래찬]
-Just someone who wants to become a Amateur Backend Developer
+### Hello my name is ParkRaechan.[박래찬]  
+#### -What are you?
+Just someone who wants to become a Amateur Backend Developer  
+#### -What are you doing now?
 Taking 2years off(2022~2024) from TUKOREA(Tech University of Korea) [한국공학대학교]    
 Currently, working as a social service agent And studying about SpringBoot    
 ##### email - focks1012@naver.com   
