@@ -5,7 +5,7 @@
   Taking 2years off(2022~2024) from TUKOREA(Tech University of Korea) [한국공학대학교]    
   Currently, Studying about SpringBoot While Working as a social service agent    
   }  
-##### email - focks1012@naver.com   
+##### contact - focks1012@naver.com   
 ----------------------------  
 
   
