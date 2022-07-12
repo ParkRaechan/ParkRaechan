@@ -1,9 +1,9 @@
 ### Hi my name is ParkRaechan.[박래찬]  
-#### -What are you?
- Just someone who wants to become a Amateur Backend Developer  
+####  -What are you?
+  Just someone who wants to become a Amateur Backend Developer  
 #### -What are you doing now?
- Taking 2years off(2022~2024) from TUKOREA(Tech University of Korea) [한국공학대학교]    
- Currently, Studying about SpringBoot While Working as a social service agent    
+  Taking 2years off(2022~2024) from TUKOREA(Tech University of Korea) [한국공학대학교]    
+  Currently, Studying about SpringBoot While Working as a social service agent    
 ##### email - focks1012@naver.com   
 ----------------------------  
 
