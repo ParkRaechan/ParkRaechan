@@ -3,7 +3,7 @@
 Just someone who wants to become a Amateur Backend Developer  
 #### -What are you doing now?
 Taking 2years off(2022~2024) from TUKOREA(Tech University of Korea) [한국공학대학교]    
-Currently, working as a social service agent And studying about SpringBoot    
+Currently, Studying about SpringBoot While Working as a social service agent    
 ##### email - focks1012@naver.com   
 ----------------------------  
 
