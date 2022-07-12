@@ -30,7 +30,7 @@ Currently, Studying about SpringBoot While Working as a social service agent
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkRaechan)](https://github.com/ParkRaechan/github-readme-stats)   
     
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRaechan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkRaechan&count_bg=%234EFDFF&title_bg=%23555555&icon=github.svg&icon_color=%23EE72FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
   
 </div>  
 
