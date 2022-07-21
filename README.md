@@ -35,5 +35,5 @@
 
 진행중인 프로젝트[project in progress]
 - [은행 보안 프로젝트 ver 2.0 [JSP]](https://github.com/ParkRaechan/Java_practice_teampj-Bank_ver.2-)
-- [알고리즘 랜덤 채팅 ver 1.0 [SpringBoot]](https://github.com/ParkRaechan/Java_practice_teampj-RandomChatting-)
+- [알고리즘 랜덤 매칭 채팅 ver 1.0 [SpringBoot]](https://github.com/ParkRaechan/Java_practice_teampj-RandomChatting-)
 - [빨래방(세탁방) 키오스크 ver 2.0 [JavaFX]](https://github.com/ParkRaechan/Java_practice_teampj-LaundryKiosk-)
