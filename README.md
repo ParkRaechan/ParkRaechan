@@ -22,6 +22,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-00B4D8?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-90E0EF?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-ADE8F4?style=for-the-badge&logo=cplusplus&logoColor=black" />
   <img src="https://img.shields.io/badge/JavaScript-CAF0F8?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
@@ -40,5 +41,5 @@
   <img src="https://img.shields.io/badge/Vim-ADE8F4?style=for-the-badge&logo=vim&logoColor=black" />
   <img src="https://img.shields.io/badge/Sourcetree-00B4D8?style=for-the-badge&logo=sourcetree&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-CAF0F8?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI%20Integration-0077B6?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-48CAE4?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
