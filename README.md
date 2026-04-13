@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&weight=700&size=45&pause=1000&color=0077B6&background=E0F7FA&center=true&vCenter=true&width=600&height=150&lines=Welcome!;슬라임+같은+개발자;프로세스에+맞는+개발;유도리+있게+협업" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&weight=700&size=45&pause=1000&color=0077B6&background=E0F7FA&center=true&vCenter=true&width=600&height=150&lines=Welcome!;물과+같은+개발자;유도리+있게+협업;프로세스에+맞는+개발" />
 </p>
 
 <p align="center">$\cal{Hello,\ My\ name\ is\ ParkRaechan,\ a\ Backend\ Developer.}$</p>
